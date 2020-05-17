@@ -1,0 +1,29 @@
+1.	Inline.script
+2.	Internal.script
+3.	External.script
+#Join Html and JS
+<script src="File Name"></script>
+#Call console
+-Setting
+-more  tools
+-development tools
+#old 
+var head =doucument.getElementById(" ");
+head.style.color="red";
+#New
+var head=document.queryselector(" ");
+head.style.fontsize=90+"px";
+#one Line 
+document.queryselector(" ").style.color="red";
+#Class=.
+#ID=#
+#var,let,const (let is many use)
+#	let -- variable keyword
+	name--variable identifier name
+	=--Assigment operator
+	"Kyi Thar Oo"--value
+	;-- end of statment
+#
+#other way
+let name,"Kyi Thar Oo" -- operands
+= -- Operator
