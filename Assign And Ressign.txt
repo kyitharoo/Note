@@ -1,0 +1,12 @@
+let num=11; //number type
+let name ="Kyi Thar Oo" //String Type
+let bol= true & false // Boolean type -- 4<5 //Boolean expression
+#know type
+console.log(typeof ----)
+
+let name; // declear
+name="Kyi Thar Oo" //assign
+console.log(name);
+
+let fruit ="Apple"; //initialize
+fruit ="orange"; //ressign
